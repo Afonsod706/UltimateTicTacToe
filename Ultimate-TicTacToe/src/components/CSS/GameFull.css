@@ -1,0 +1,9 @@
+.gameFull {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  background-image: url(../constants/fundo-jogo1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

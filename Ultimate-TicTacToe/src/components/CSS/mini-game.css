@@ -1,0 +1,12 @@
+.miniGame{
+    margin: 0 auto ;
+    margin-bottom: 10px;
+  
+}
+.board-row{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

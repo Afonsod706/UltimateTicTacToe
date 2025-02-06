@@ -1,0 +1,75 @@
+
+  .about {
+    font-family: Arial, sans-serif;
+    margin: 10em auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .buttonV {
+    border: 1px solid seagreen;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    color: seagreen;
+    font-style: italic;
+    padding: 20px 100px;
+    font-size: 2em;
+   }
+   
+   .buttonV:hover {
+    background-color: seagreen;
+    color: white;
+    border: 1px solid  seagreen;
+    cursor: pointer;
+   }
+   
+
+  h1 {
+    color: #ffffff;
+    font-size: 4em;
+    font-style: italic;
+    margin-bottom: 40px;
+  }
+
+  h2 {
+    color: #333;
+  }
+
+  p {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  .component {
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+flex-direction: column;
+font-weight: bold;
+font-size: 2em;
+align-items: center;
+    background-color: #00000074;
+    border-radius: 20px;
+  }
+
+  .component-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%;
+    font-style: italic;
+    color: #14b617;
+  }
+
+  .state {
+    margin-bottom: 20px;
+  }
+
+  ul li{
+    padding-bottom: 50px;
+    font-size: 30px;
+    list-style: none;
+  }
+  .function {
+    margin-bottom: 10px;
+  }
